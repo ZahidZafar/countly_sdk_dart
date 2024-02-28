@@ -1,4 +1,4 @@
-# countly_sdk_dart
+# Countly SDK Dart
 
 A new Flutter project.
 
